@@ -24,7 +24,7 @@
 </p>
 
 
-![Haile's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaileLakew&show_icons=true&theme=synthwave)
+![Haile's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaileLakew&show_icons=true)
 
 
 
