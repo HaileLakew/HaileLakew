@@ -10,9 +10,12 @@
   <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif">
 </p>
 
+## I'm Haile! 
+### Pleased to meet ya!
+
+
+Here's a lil' about me:
 <p align="center">
-  I'm Haile! Pleased to meet ya!
-  Here's a lil' about me:
   <p align="center"> 🔭 I’m currently working on: My Own Portfolio Site</p>
   <p align="center"> 🌱 I’m currently learning: ThreeJS 💎</p>
   <p align="center"> 👯 I’m looking to collaborate with: Other Thinkerers</p>
