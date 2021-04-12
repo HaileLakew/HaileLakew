@@ -6,11 +6,12 @@
    
 <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm Haile! </h2>
-<h3 align="center">Pleased to meet ya!</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif">
 </p>
+
+<h3 align="center">Pleased to meet ya!</h2>
 
 <h3 align="center">Here's a lil' about me:</h2>
 <p align="center">
