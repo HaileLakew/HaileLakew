@@ -11,9 +11,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
-          markdown: >-
-            https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
-          config_output: markdown
           plugin_activity: yes
           plugin_activity_limit: 7
           plugin_activity_days: 0
